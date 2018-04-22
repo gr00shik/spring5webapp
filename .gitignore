@@ -11,6 +11,8 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
+src/test
+target
 classes
 .idea
 *.iws
